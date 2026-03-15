@@ -1,1 +1,1 @@
- 
+# This is an Amazon UI Clone built using HTML and CSS. 
